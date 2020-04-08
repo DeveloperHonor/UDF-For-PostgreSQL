@@ -1,5 +1,5 @@
 # UDF-For-PostgreSQL
-using udf in PostgreSQL achieve similar hextoraw of Oracle
+Using udf in PostgreSQL achieve similar hextoraw() and rawtohex()'s function in Oracle
 
 Excute Function hextoraw.sql 
 
