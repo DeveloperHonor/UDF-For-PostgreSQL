@@ -48,7 +48,7 @@ In PostgreSQL:
 
 
 
-#using rawtohex function
+#using rawtohex function <br>
 ***Initializing in PostgreSQL rawtohex function:***
 
 You need execute extension for plpythonu in PostgreSQL
